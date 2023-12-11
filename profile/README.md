@@ -1,10 +1,7 @@
-```
-   ____                   _  __                    
-  / __ \                 | |/ /                    
- | |  | |_ __   ___ _ __ | ' / ___  _ __ ___  __ _ 
- | |  | | '_ \ / _ \ '_ \|  < / _ \| '__/ _ \/ _` |
- | |__| | |_) |  __/ | | | . \ (_) | | |  __/ (_| |
-  \____/| .__/ \___|_| |_|_|\_\___/|_|  \___|\__,_|
-        | |                                        
-        |_|                                                            
-```
+# About OpenKorea
+
+<img align="left" width="100" height="100" src="https://github.com/openkorea/.github/assets/39869096/a25ba9c4-76b8-406a-babb-97a0745e44bb" >
+
+Open-source Development Club in South Korea
+
+A non-profit organization dedicated to fostering open-source culture in Korea and developing and researching open-source software suitable for the Korean industry.
