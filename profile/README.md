@@ -4,4 +4,4 @@
 
 Open-source Development Club in South Korea 🇰🇷
 
-A non-profit organization that fosters open-source culture in Korea and develops and researches open-source software that is suitable for the Korean industry.
+A non-profit organization that fosters open-source culture in Korea, develops and researches open-source software that is suitable for the Korean industry.
