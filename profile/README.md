@@ -1,4 +1,4 @@
-<img align="left" height="120" src="https://github.com/openkorea/.github/assets/39869096/a25ba9c4-76b8-406a-babb-97a0745e44bb" >
+<img align="left" height="125" src="https://github.com/openkorea/.github/assets/39869096/a25ba9c4-76b8-406a-babb-97a0745e44bb" >
 
 **Open-source Development Team in South Korea 🇰🇷**
 
